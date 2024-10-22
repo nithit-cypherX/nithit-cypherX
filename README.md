@@ -1,15 +1,13 @@
 # 🏴‍☠ CypherX 𓀛
 
 <div align = "center" >
-  <h3><b>Backend developer and Pestester ⚛️</b></h2>
+  <h3><b>Full Stack Developer ⚛️</b></h2>
 
 
 <p align = "center">
 I'm currently focused on developing my skills as a backend developer and pentester. As a backend developer, my main goal is to build and maintain the server-side logic of web applications, ensuring they run smoothly and efficiently. ⚠️
 </p>
-<p align = "center">
-I'm also interested in the field of penetration testing. I aim to understand the vulnerabilities in computer systems, networks, and applications, and then apply ethical hacking techniques to identify and address potential security risks. ☢️
-</p>
+
 
 </div>
 
