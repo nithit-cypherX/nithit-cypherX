@@ -1,29 +1,26 @@
 # 🏴‍☠ CypherX 𓀛
 
-<div align = "center" >
-  <h3><b>Full Stack Developer ⚛️</b></h2>
+<div align="center">
+  <h3><b>Software Engineer | Full Stack Developer 🚀</b></h3>
 
-
-<p align = "center">
-I'm currently focused on developing my skills as a backend developer and pentester. As a backend developer, my main goal is to build and maintain the server-side logic of web applications, ensuring they run smoothly and efficiently. ⚠️
-</p>
-
-
+  <p align="center">
+    I am a Computer Science student dedicated to becoming a top 1% developer. <br>
+    Currently, I am deep-diving into <b>Data Structures & Algorithms</b> and <b>System Design</b>. <br>
+    My passion is building scalable, high-performance web applications using modern technologies.
+  </p>
 </div>
 
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
+<div align="left">
+  <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</div>
+<br />
 <br />
 
-#
-
-### 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithit-cypherX&layout=compact&theme=radical)
 
